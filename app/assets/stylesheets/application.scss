@@ -1,1 +1,11 @@
 @import "bootstrap/scss/bootstrap";
+
+//= require_tree .
+
+.pages{
+  background-color: red;
+}
+
+.products{
+  background-color: green;
+}
